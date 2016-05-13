@@ -2,7 +2,7 @@
  *  counter.asm
  *
  *  Created: 15.03.2014 21:07:25
- *  Author: Ruben
+ *  Author: Paradigmn
  *  Pushbutton on INT0/1
  *  Digits on PB0-7, multiplexed with PD0/1&4/5
  *  ATTiny 2313 @8MHz
